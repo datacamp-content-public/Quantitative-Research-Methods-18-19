@@ -29,7 +29,10 @@ See 'Arithmetic Operations'.
 ```{r}
 8 - 2
 ```
-
+`@sct`
+```{r}
+8 - 2
+```
 
 
 
