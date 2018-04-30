@@ -1,8 +1,10 @@
 ---
 title: Template Chapter 1
-description: This is a template chapter.
----
+description: >-
+  This is a template chapter.
 
+
+---
 ## Ex 1.1
 
 ```yaml
@@ -13,34 +15,21 @@ skills: 1
 key: 495db87295
 ```
 
-Do some data science.
+Let's start by practicing arithmetic operations by using R as a basic calculator.
 
 `@instructions`
-
+How would you type 8 minus 2?
 
 `@hint`
+See 'Arithmetic Operations'.
 
 
-`@pre_exercise_code`
-
-```{r}
-
-```
-
-`@sample_code`
-
-```{r}
-
-```
 
 `@solution`
-
 ```{r}
-
+8 - 2
 ```
 
-`@sct`
 
-```{r}
 
-```
+
