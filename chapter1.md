@@ -31,7 +31,7 @@ See 'Arithmetic Operations'.
 ```
 `@sct`
 ```{r}
-8 - 2
+omnitest(correctExpr='8 - 2')
 ```
 
 
